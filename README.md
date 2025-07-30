@@ -4,8 +4,7 @@ A modern, responsive AI chat application built with Next.js 15, Redux, and Tailw
 
 ## 🚀 Live Demo
 
-[Deploy to Netlify]  Add your deployment link here
-
+[Deploy to Netlify]  https://effulgent-peony-e7028c.netlify.app/
 ## ✨ Features
 
 ### 🔐 Authentication
@@ -61,7 +60,7 @@ A modern, responsive AI chat application built with Next.js 15, Redux, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/199shreyasingh/Gemini_assignment.git
    cd gemini-clone
    ```
 
